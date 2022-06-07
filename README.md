@@ -6,3 +6,6 @@ A collection of publicly available datasets.
 * Problem type: regression
 * URL: https://raw.githubusercontent.com/ryanbehdad/datasets/main/winequality.csv
 * Details: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+
+## Student performance
+* URL: https://raw.githubusercontent.com/ryanbehdad/datasets/main/StudentsPerformance.csv
